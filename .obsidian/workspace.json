@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "c12f49c707fdd90f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7f6dacb8038472d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e37b33078881f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "список вопросов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "список вопросов"
+            }
+          },
+          {
+            "id": "98b7a3d864d1d732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "список вопросов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "список вопросов"
+            }
+          },
+          {
+            "id": "dea2e41dd32b6322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "список вопросов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "список вопросов"
+            }
+          },
+          {
+            "id": "5d92bb48b9863390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Быстрый старт/Как пользоваться набором плагинов Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как пользоваться набором плагинов Obsidian"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "466e1bb9ab9d7366",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdaf23842a61b62c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b59d27922030742",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "64fdf2f9351f3ead",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5ceb296541cc82ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35ba09ccfd757fc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "620033a1b73b9359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4e1df3cd144955",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "19d9cc4e0702e1cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "9d7550304f773b80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "a714431644940fef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "c18ee1c5ae7ac237",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "a38a0b80141cb200",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1206234a69bcff14",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "5d92bb48b9863390",
+  "lastOpenFiles": [
+    "список вопросов.md",
+    "структура базы.canvas",
+    "devops-собесы/Типы оперативной памяти, модели материнской платы, версии BIOS?.md",
+    "devops-собесы/Сервер не отвечает, как можно получить доступ к серверу, не находясь непосредственно в ЦОДЕ.md",
+    "devops-собесы/Просмотр информации о железной составляющей сервера.md",
+    "devops-собесы/Модели процессора, количестве физических и логических ядер, поддерживаемых инструкциях, режиме работы?.md",
+    "devops-собесы/Что такое IPMI? Какие подсистемы он в себя включает?.md",
+    "devops-собесы/Что такое kvm (не гипервизор)? Как можно его использовать?.md",
+    "devops-собесы/Какие преимущества предоставляет IPMI в сравнении с kvm?.md",
+    "Быстрый старт/Как создать базу знаний и граф в Obsidian.md",
+    "Быстрый старт/Как пользоваться набором плагинов Obsidian.md",
+    "Быстрый старт",
+    "().md",
+    "devops-собесы/Без названия.md",
+    "Без названия.md",
+    "test.txt",
+    "devops-собесы/Без названия.base",
+    "devops-собесы",
+    "создайте ссылку.md"
+  ]
+}
